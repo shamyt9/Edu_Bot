@@ -36,7 +36,7 @@ The response is displayed in the UI.
 You can add screenshots here:
 /screenshots/edubot.png
 Example:
-![EduBot UI](screenshots/demo.png)
+![EduBot UI](https://github.com/shamyt9/Edu_Bot/blob/main/screenshot/edubot.png?raw=true)
 
 🎯 Future Improvements
 
